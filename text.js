@@ -4,6 +4,8 @@ let buttons = document.querySelectorAll(".button");
 let string = "";
 let arr = Array.from(buttons);
 
+console.log("changes by umesh laptop")
+
 
 arr.forEach((button) => {
   button.addEventListener("click", (e) => {
